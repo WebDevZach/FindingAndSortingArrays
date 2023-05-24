@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\JLeye\source\repos\SearchingAndSorting\SearchingAndSorting\Source.cpp(206,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  SearchingAndSorting.vcxproj -> C:\Users\JLeye\source\repos\SearchingAndSorting\x64\Debug\SearchingAndSorting.exe
